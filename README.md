@@ -6,7 +6,7 @@ Feel free to contact me on [Linkedin](www.linkedin.com/in/kareem-lemboye-1a00252
 ## Problem 1  - ["Essential SQL" by Kris Wenzel](https://www.essentialsql.com/contains-in-sql/)
 This practice problem contains 5 questions focused around a school environment.
 
-![alt text](https://github.com/KLemboye/SQL-Practice-Problems/blob/b5109350d9b9915de38ed4745cb2a69ff413906e/Northwind_SPP%20Data%20Model.JPG "Northwind_SPP Data Model")
+![alt text](https://github.com/KLemboye/SQL-Practice-Problems/blob/49742bdd75c2297a24e9c0e5e541cb2f59db23e7/School%20Data%20Model.JPG "School Data Model")
 
 **1. The schools would like to know which student has the highest GPA. To qualify students, need to have taken two or more courses.
 List the Student Name, number of courses taken, and overall GPA.**
