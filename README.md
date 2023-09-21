@@ -6,9 +6,7 @@ Feel free to contact me on [Linkedin](www.linkedin.com/in/kareem-lemboye-1a00252
 ## Problem 1  - ["SQL Practice Problems" by Sylvia Moestl Vasilik](http://www.sqlpracticeproblems.com)
 This practice problem contains 57 questions separated into three difficulty levels (beginners, intermediate, and advanced). The questions in this book were designed to train its users how to analyze data problems, figure out SQL fundamentals, and to work towards crafting SQL solutions solved using a "learn-by-doing" approach.
 
-### Data Model
-![alt text](Northwind_SPP Data Model.JPG)
-https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"
+![alt text](https://github.com/KLemboye/SQL-Practice-Problems/blob/b5109350d9b9915de38ed4745cb2a69ff413906e/Northwind_SPP%20Data%20Model.JPG "Northwind_SPP Data Model")
 
 ### Beginners
 **1. Which shippers do we have?**
